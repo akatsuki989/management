@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+table{
+    width:70%;
+    margin-bottom:1rem;
+    background-color:transparent;
+    text-align: center;
+}
+
+table, table th,table td{
+    border-collapse: collapse;
+    border:2px solid black;
+}
+
+table th {
+    background: #bbbaba;
+}
+
+table td{
+    height: 100px;
+}
+
+td img{
+    width: 50px;	
+}
+
+.comment{
+    width: 700px;
+    text-align: left;
+}
